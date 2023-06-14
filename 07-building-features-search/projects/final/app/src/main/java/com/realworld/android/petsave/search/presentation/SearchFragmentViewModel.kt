@@ -41,7 +41,6 @@ import com.realworld.android.petsave.common.domain.model.NoMoreAnimalsException
 import com.realworld.android.petsave.common.domain.model.animal.Animal
 import com.realworld.android.petsave.common.domain.model.pagination.Pagination
 import com.realworld.android.petsave.common.presentation.model.mappers.UiAnimalMapper
-import com.realworld.android.petsave.common.utils.DispatchersProvider
 import com.realworld.android.petsave.common.utils.createExceptionHandler
 import com.realworld.android.petsave.search.domain.model.SearchParameters
 import com.realworld.android.petsave.search.domain.model.SearchResults

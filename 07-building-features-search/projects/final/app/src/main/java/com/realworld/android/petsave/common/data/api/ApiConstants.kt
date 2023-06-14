@@ -38,9 +38,8 @@ object ApiConstants {
   const val BASE_ENDPOINT = "https://api.petfinder.com/v2/"
   const val AUTH_ENDPOINT = "oauth2/token/"
   const val ANIMALS_ENDPOINT = "animals"
-
-  const val KEY = "INSERT_YOUR_KEY_HERE"
-  const val SECRET = "INSERT_YOUR_SECRET_HERE"
+  const val KEY = "l2xlEwpKvGGn0G1u7FI3UhbCrrkgEitLjnGMAA8ZLZY0smyLfa"
+  const val SECRET = "k5PUokDvi4WH7KfZWBfOXwYoinX291S0c2dXtcNA"
 }
 
 object ApiParameters {
